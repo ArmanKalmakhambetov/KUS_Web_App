@@ -1,4 +1,4 @@
-package com.armanK.pet.project.KUS_Web_App;
+package com.armanK.pet.project.KUS_Web_App.webapp.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

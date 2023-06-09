@@ -1,5 +1,6 @@
 package com.armanK.pet.project.KUS_Web_App;
 
+import com.armanK.pet.project.KUS_Web_App.webapp.config.KusWebAppApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
